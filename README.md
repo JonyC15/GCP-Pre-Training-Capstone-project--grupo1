@@ -1,4 +1,5 @@
 # GCP-Pre-Training-Capstone-project--grupo1
+
 This project is about a website for European traveling, uploaded to a Cloud Run service to practice deploying in Google Cloud Platform.
 In the Cloud Run we have the
 Original HTML project which is from: https://github.com/GNiruthian/Europe-Travel-Website-html-css-js
